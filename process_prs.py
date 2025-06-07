@@ -27,7 +27,7 @@ for pr in repo.get_pulls(state="open", base="main"):
 
         user_map[user_id] = username
 
-        subprocess.run(["git", "add", f"{user_id}.json"], check=True)
+        subprocess.run(["git", "add", f"students/{user_id}.json"], check=True)
         subprocess.run(
             ["git", "commit", "-m", f"Update {username} progress"], check=True
         )
