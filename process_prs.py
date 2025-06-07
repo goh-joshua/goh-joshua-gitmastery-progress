@@ -41,6 +41,14 @@ for pr in repo.get_pulls(state="open", base="main"):
 with open("user_map.json", "w") as f:
     json.dump(user_map, f, indent=2)
 
-subprocess.run(["git", "add", "user_map.json"], check=True)
-subprocess.run(["git", "commit", "-m", "Update user map"], check=True)
+diff_result = subprocess.run(
+    ["git", "diff", "--quiet", "user_map.json"], capture_output=True
+)
+
+if diff_result.returncode != 0:
+    subprocess.run(["git", "add", "user_map.json"], check=True)
+    subprocess.run(["git", "commit", "-m", "Update user_map.json"], check=True)
+else:
+    print("No changes to user_map.json")
+
 subprocess.run(["git", "push", "origin", "tracker"], check=True)
