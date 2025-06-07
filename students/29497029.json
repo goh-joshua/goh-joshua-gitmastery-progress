@@ -52,5 +52,34 @@
       "Great work! You have successfully checked in all the actors!"
     ],
     "status": "UNSUCCESSFUL"
+  },
+  {
+    "exercise_name": "stage-fright",
+    "started_at": 1749304562.70821,
+    "completed_at": 1749304562.760978,
+    "comments": [
+      "Great work! You have successfully checked in all the actors!"
+    ],
+    "status": "SUCCESSFUL"
+  },
+  {
+    "exercise_name": "stage-fright",
+    "started_at": 1749304967.113976,
+    "completed_at": 1749304967.481266,
+    "comments": [
+      "Did not add joe.txt",
+      "Did not add bob.txt",
+      "Did not add alice.txt"
+    ],
+    "status": "UNSUCCESSFUL"
+  },
+  {
+    "exercise_name": "stage-fright",
+    "started_at": 1749304984.576973,
+    "completed_at": 1749304984.661989,
+    "comments": [
+      "Great work! You have successfully checked in all the actors!"
+    ],
+    "status": "SUCCESSFUL"
   }
 ]
