@@ -34,5 +34,23 @@
       "There are no grocery list items removed from the shopping list."
     ],
     "status": "UNSUCCESSFUL"
+  },
+  {
+    "exercise_name": "stage-fright",
+    "started_at": 1749304417.193458,
+    "completed_at": 1749304417.253375,
+    "comments": [
+      "Great work! You have successfully checked in all the actors!"
+    ],
+    "status": "UNSUCCESSFUL"
+  },
+  {
+    "exercise_name": "stage-fright",
+    "started_at": 1749304460.649556,
+    "completed_at": 1749304460.713724,
+    "comments": [
+      "Great work! You have successfully checked in all the actors!"
+    ],
+    "status": "UNSUCCESSFUL"
   }
 ]
