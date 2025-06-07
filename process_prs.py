@@ -10,6 +10,8 @@ repo = g.get_repo(os.environ["GITHUB_REPOSITORY"])
 processed_users = []
 user_map = {}
 
+os.makedirs("students", exist_ok=True)
+
 for pr in repo.get_pulls(state="open", base="main"):
     username = pr.user.login
     user_id = pr.user.id
@@ -20,7 +22,7 @@ for pr in repo.get_pulls(state="open", base="main"):
         contents = pr_repo.get_contents("progress.json", ref=pr_ref)
         progress_data = json.loads(contents.decoded_content.decode())
 
-        with open(f"{user_id}.json", "w") as f:
+        with open(f"students/{user_id}.json", "w") as f:
             json.dump(progress_data, f, indent=2)
 
         user_map[user_id] = username
