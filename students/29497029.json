@@ -81,5 +81,34 @@
       "Great work! You have successfully checked in all the actors!"
     ],
     "status": "SUCCESSFUL"
+  },
+  {
+    "exercise_name": "amateur-detective",
+    "started_at": null,
+    "completed_at": null,
+    "comments": [
+      "'GitAutograderAnswers' object has no attribute 'add_validation'"
+    ],
+    "status": "ERROR"
+  },
+  {
+    "exercise_name": "amateur-detective",
+    "started_at": 1749371729.704522,
+    "completed_at": 1749371730.121619,
+    "comments": [
+      "Answer for Which file was added? is empty.",
+      "Answer for Which file was edited? is empty."
+    ],
+    "status": "UNSUCCESSFUL"
+  },
+  {
+    "exercise_name": "amateur-detective",
+    "started_at": 1749372284.409284,
+    "completed_at": 1749372284.457811,
+    "comments": [
+      "Answer for Which file was added? is empty.",
+      "Answer for Which file was edited? is empty."
+    ],
+    "status": "UNSUCCESSFUL"
   }
 ]
