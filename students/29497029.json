@@ -173,5 +173,21 @@
       "You have not made any commits yet!"
     ],
     "status": "UNSUCCESSFUL"
+  },
+  {
+    "exercise_name": "ignoring-somethings",
+    "started_at": 1750163627.992056,
+    "completed_at": 1750163628.455875,
+    "comments": [
+      "You have not made any commits yet!"
+    ],
+    "status": "UNSUCCESSFUL"
+  },
+  {
+    "exercise_name": "ignoring-somethings",
+    "started_at": 1750163827.04915,
+    "completed_at": 1750163827.158331,
+    "comments": [],
+    "status": "SUCCESSFUL"
   }
 ]
