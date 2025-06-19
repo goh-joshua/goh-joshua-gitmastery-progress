@@ -249,5 +249,77 @@
       "Great work using .gitignore!"
     ],
     "status": "SUCCESSFUL"
+  },
+  {
+    "exercise_name": null,
+    "started_at": 1750299345.111142,
+    "completed_at": 1750299345.625922,
+    "comments": [
+      "You should have woojiahao-gitmastery-push-over in your exercise folder. You might want to re-download the exercise."
+    ],
+    "status": "UNSUCCESSFUL"
+  },
+  {
+    "exercise_name": null,
+    "started_at": 1750299386.551052,
+    "completed_at": 1750299386.992654,
+    "comments": [
+      "You should have woojiahao-gitmastery-push-over in your exercise folder. You might want to re-download the exercise."
+    ],
+    "status": "UNSUCCESSFUL"
+  },
+  {
+    "exercise_name": null,
+    "started_at": 1750299739.602003,
+    "completed_at": 1750299740.041061,
+    "comments": [
+      "You should have woojiahao-gitmastery-push-over in your exercise folder. You might want to re-download the exercise."
+    ],
+    "status": "UNSUCCESSFUL"
+  },
+  {
+    "exercise_name": "push-over",
+    "started_at": 1750300869.341205,
+    "completed_at": 1750300873.414531,
+    "comments": [
+      "You might have forgotten to push your commit to the remote repository."
+    ],
+    "status": "UNSUCCESSFUL"
+  },
+  {
+    "exercise_name": "push-over",
+    "started_at": 1750301074.830164,
+    "completed_at": 1750301078.517684,
+    "comments": [
+      "You might have forgotten to push your commit to the remote repository."
+    ],
+    "status": "UNSUCCESSFUL"
+  },
+  {
+    "exercise_name": "push-over",
+    "started_at": 1750301134.803159,
+    "completed_at": 1750301135.824551,
+    "comments": [
+      "You should have made a separate commit!"
+    ],
+    "status": "UNSUCCESSFUL"
+  },
+  {
+    "exercise_name": "push-over",
+    "started_at": 1750301539.577099,
+    "completed_at": 1750301543.444662,
+    "comments": [
+      "You might have forgotten to push your commit to the remote repository."
+    ],
+    "status": "UNSUCCESSFUL"
+  },
+  {
+    "exercise_name": "push-over",
+    "started_at": 1750301576.617674,
+    "completed_at": 1750301579.600117,
+    "comments": [
+      "Great work pushing changes to the remote!"
+    ],
+    "status": "SUCCESSFUL"
   }
 ]
