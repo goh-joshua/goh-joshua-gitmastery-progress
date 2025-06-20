@@ -112,40 +112,6 @@
     "status": "UNSUCCESSFUL"
   },
   {
-    "exercise_name": "remote-control",
-    "started_at": null,
-    "completed_at": null,
-    "comments": [
-      "verify() missing 1 required positional argument: 'repo'"
-    ],
-    "status": "ERROR"
-  },
-  {
-    "exercise_name": "remote-control",
-    "started_at": null,
-    "completed_at": null,
-    "comments": [],
-    "status": "SUCCESSFUL"
-  },
-  {
-    "exercise_name": "remote-control",
-    "started_at": 1749391502.827426,
-    "completed_at": 1749391511.221591,
-    "comments": [
-      "Great work setting up a public remote repository!"
-    ],
-    "status": "SUCCESSFUL"
-  },
-  {
-    "exercise_name": "remote-control",
-    "started_at": 1749391523.102498,
-    "completed_at": 1749391527.804541,
-    "comments": [
-      "The remote repository url you provided either does not exist, or is private. Try again!"
-    ],
-    "status": "UNSUCCESSFUL"
-  },
-  {
     "exercise_name": "stage-fright",
     "started_at": 1749730139.758642,
     "completed_at": 1749730140.269333,
@@ -321,5 +287,14 @@
       "Great work pushing changes to the remote!"
     ],
     "status": "SUCCESSFUL"
+  },
+  {
+    "exercise_name": "remote-control",
+    "started_at": 1750419422.372741,
+    "completed_at": 1750419426.620194,
+    "comments": [
+      "That is not the right Github URL!"
+    ],
+    "status": "UNSUCCESSFUL"
   }
 ]
