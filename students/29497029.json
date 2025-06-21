@@ -296,5 +296,23 @@
       "That is not the right Github URL!"
     ],
     "status": "UNSUCCESSFUL"
+  },
+  {
+    "exercise_name": "under-control",
+    "started_at": 1750526415.458023,
+    "completed_at": 1750526415.463363,
+    "comments": [
+      "Exercise is not a Git repository"
+    ],
+    "status": "ERROR"
+  },
+  {
+    "exercise_name": "under-control",
+    "started_at": 1750526429.40007,
+    "completed_at": 1750526429.744272,
+    "comments": [
+      "You successfully used git init to initialize this folder as a Git repository!"
+    ],
+    "status": "SUCCESSFUL"
   }
 ]
