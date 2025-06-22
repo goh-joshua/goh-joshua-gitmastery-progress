@@ -314,5 +314,68 @@
       "You successfully used git init to initialize this folder as a Git repository!"
     ],
     "status": "SUCCESSFUL"
+  },
+  {
+    "exercise_name": "bonsai-tree",
+    "started_at": 1750573654.406561,
+    "completed_at": 1750573654.82873,
+    "comments": [
+      "The main branch is missing the dangers-to-bonsais.txt file"
+    ],
+    "status": "UNSUCCESSFUL"
+  },
+  {
+    "exercise_name": "bonsai-tree",
+    "started_at": 1750573679.10935,
+    "completed_at": 1750573679.56187,
+    "comments": [
+      "The main branch is missing the dangers-to-bonsais.txt file"
+    ],
+    "status": "UNSUCCESSFUL"
+  },
+  {
+    "exercise_name": "bonsai-tree",
+    "started_at": 1750573703.935988,
+    "completed_at": 1750573704.031595,
+    "comments": [
+      "Branch history is missing."
+    ],
+    "status": "ERROR"
+  },
+  {
+    "exercise_name": "bonsai-tree",
+    "started_at": 1750573745.24216,
+    "completed_at": 1750573745.368357,
+    "comments": [
+      "The history branch is missing the history-of-bonsais.txt file"
+    ],
+    "status": "UNSUCCESSFUL"
+  },
+  {
+    "exercise_name": "bonsai-tree",
+    "started_at": 1750573777.465079,
+    "completed_at": 1750573777.59354,
+    "comments": [
+      "Branch care is missing."
+    ],
+    "status": "ERROR"
+  },
+  {
+    "exercise_name": "bonsai-tree",
+    "started_at": 1750573793.962107,
+    "completed_at": 1750573794.127368,
+    "comments": [
+      "The care branch is missing the edit to bonsai-care.txt file"
+    ],
+    "status": "UNSUCCESSFUL"
+  },
+  {
+    "exercise_name": "bonsai-tree",
+    "started_at": 1750573825.913651,
+    "completed_at": 1750573826.093444,
+    "comments": [
+      "Great work on using branches to maintain the care notes for your bonsai trees!"
+    ],
+    "status": "SUCCESSFUL"
   }
 ]
