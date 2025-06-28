@@ -586,5 +586,68 @@
       "Branch main is missing the Git Mastery start commit"
     ],
     "status": "ERROR"
+  },
+  {
+    "exercise_name": "branch-bender",
+    "started_at": 1751100359.639037,
+    "completed_at": 1751100360.0292,
+    "comments": [
+      "You are missing some merges"
+    ],
+    "status": "UNSUCCESSFUL"
+  },
+  {
+    "exercise_name": "branch-bender",
+    "started_at": 1751100379.037539,
+    "completed_at": 1751100379.502541,
+    "comments": [
+      "You are missing some merges"
+    ],
+    "status": "UNSUCCESSFUL"
+  },
+  {
+    "exercise_name": "branch-bender",
+    "started_at": 1751100440.336213,
+    "completed_at": 1751100440.477197,
+    "comments": [
+      "You are missing some merges"
+    ],
+    "status": "UNSUCCESSFUL"
+  },
+  {
+    "exercise_name": "branch-bender",
+    "started_at": 1751100460.762523,
+    "completed_at": 1751100460.851285,
+    "comments": [
+      "You are missing some merges"
+    ],
+    "status": "UNSUCCESSFUL"
+  },
+  {
+    "exercise_name": "branch-bender",
+    "started_at": 1751100474.430513,
+    "completed_at": 1751100474.523846,
+    "comments": [
+      "You are missing some merges"
+    ],
+    "status": "UNSUCCESSFUL"
+  },
+  {
+    "exercise_name": "branch-bender",
+    "started_at": 1751100486.497889,
+    "completed_at": 1751100486.585271,
+    "comments": [
+      "You are missing some merges"
+    ],
+    "status": "UNSUCCESSFUL"
+  },
+  {
+    "exercise_name": "branch-bender",
+    "started_at": 1751100509.464087,
+    "completed_at": 1751100509.556178,
+    "comments": [
+      "You are missing some merges"
+    ],
+    "status": "UNSUCCESSFUL"
   }
 ]
