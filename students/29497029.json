@@ -568,5 +568,23 @@
       "Great work with using git branch and git checkout to fix the bugs!"
     ],
     "status": "SUCCESSFUL"
+  },
+  {
+    "exercise_name": "branch-bender",
+    "started_at": 1751096598.328759,
+    "completed_at": 1751096598.780447,
+    "comments": [
+      "Branch main is missing the Git Mastery start commit"
+    ],
+    "status": "ERROR"
+  },
+  {
+    "exercise_name": "branch-bender",
+    "started_at": 1751096840.745411,
+    "completed_at": 1751096841.316718,
+    "comments": [
+      "Branch main is missing the Git Mastery start commit"
+    ],
+    "status": "ERROR"
   }
 ]
