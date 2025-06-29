@@ -571,12 +571,11 @@
   },
   {
     "exercise_name": "branch-bender",
-    "started_at": 1751201095.568279,
-    "completed_at": 1751201096.001842,
+    "started_at": 1751201184.970873,
+    "completed_at": 1751201185.045651,
     "comments": [
-      "You should have merged feature/dashboard next.",
-      "Reset the repository using \"gitmastery progress reset\" and start again"
+      "Great work with merging the branches in order! Try running the HTML files locally!"
     ],
-    "status": "UNSUCCESSFUL"
+    "status": "SUCCESSFUL"
   }
 ]
