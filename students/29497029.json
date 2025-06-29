@@ -667,5 +667,23 @@
       "You are missing some merges"
     ],
     "status": "UNSUCCESSFUL"
+  },
+  {
+    "exercise_name": "branch-bender",
+    "started_at": 1751189190.811014,
+    "completed_at": 1751189191.205394,
+    "comments": [
+      "You are missing some merges"
+    ],
+    "status": "UNSUCCESSFUL"
+  },
+  {
+    "exercise_name": "branch-bender",
+    "started_at": 1751189244.59675,
+    "completed_at": 1751189245.133194,
+    "comments": [
+      "You are missing some merges"
+    ],
+    "status": "UNSUCCESSFUL"
   }
 ]
