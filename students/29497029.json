@@ -748,5 +748,50 @@
       "You are missing some merges"
     ],
     "status": "UNSUCCESSFUL"
+  },
+  {
+    "exercise_name": "branch-bender",
+    "started_at": 1751196703.33025,
+    "completed_at": 1751196703.76478,
+    "comments": [
+      "You are missing some merges"
+    ],
+    "status": "UNSUCCESSFUL"
+  },
+  {
+    "exercise_name": "branch-bender",
+    "started_at": 1751196813.430716,
+    "completed_at": 1751196813.939439,
+    "comments": [
+      "You are missing some merges"
+    ],
+    "status": "UNSUCCESSFUL"
+  },
+  {
+    "exercise_name": "branch-bender",
+    "started_at": 1751196830.742028,
+    "completed_at": 1751196830.830893,
+    "comments": [
+      "You are missing some merges"
+    ],
+    "status": "UNSUCCESSFUL"
+  },
+  {
+    "exercise_name": "branch-bender",
+    "started_at": 1751196955.779405,
+    "completed_at": 1751196955.914492,
+    "comments": [
+      "You should have merged feature/dashboard first. The expected order is feature/login, feature/dashboard, feature/payments"
+    ],
+    "status": "UNSUCCESSFUL"
+  },
+  {
+    "exercise_name": "branch-bender",
+    "started_at": 1751197025.765847,
+    "completed_at": 1751197026.270245,
+    "comments": [
+      "You should have merged feature/dashboard first. The expected order is feature/login, feature/dashboard, feature/payments"
+    ],
+    "status": "UNSUCCESSFUL"
   }
 ]
