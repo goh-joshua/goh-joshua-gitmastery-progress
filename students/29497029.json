@@ -7,5 +7,23 @@
       "There are no grocery list items removed from the shopping list."
     ],
     "status": "UNSUCCESSFUL"
+  },
+  {
+    "exercise_name": "grocery-shopping",
+    "started_at": 1752212167.714266,
+    "completed_at": 1752212168.153105,
+    "comments": [
+      "Great work! You have successfully used `git add` and `git commit` to modify the shopping list! Keep it up!"
+    ],
+    "status": "SUCCESSFUL"
+  },
+  {
+    "exercise_name": "amateur-detective",
+    "started_at": 1752212683.612613,
+    "completed_at": 1752212684.029346,
+    "comments": [
+      "Congratulations on cracking the case! You found the hacker!"
+    ],
+    "status": "SUCCESSFUL"
   }
 ]
