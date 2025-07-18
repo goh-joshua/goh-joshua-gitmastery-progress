@@ -99,5 +99,32 @@
       "You successfully used git init to initialize this folder as a Git repository!"
     ],
     "status": "SUCCESSFUL"
+  },
+  {
+    "exercise_name": "remote-control",
+    "started_at": 1752834888.723183,
+    "completed_at": 1752834965.7058,
+    "comments": [
+      "That is not the right Github url!"
+    ],
+    "status": "UNSUCCESSFUL"
+  },
+  {
+    "exercise_name": "remote-control",
+    "started_at": 1752834977.950402,
+    "completed_at": 1752835005.769444,
+    "comments": [
+      "Great work setting up a public remote repository!"
+    ],
+    "status": "SUCCESSFUL"
+  },
+  {
+    "exercise_name": "push-over",
+    "started_at": 1752835770.843608,
+    "completed_at": 1752835774.553131,
+    "comments": [
+      "Great work pushing changes to the remote!"
+    ],
+    "status": "SUCCESSFUL"
   }
 ]
