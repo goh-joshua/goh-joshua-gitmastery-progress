@@ -1,5 +1,70 @@
 [
   {
+    "exercise_name": "grocery-shopping",
+    "started_at": 1752513634.657263,
+    "completed_at": 1752513635.036627,
+    "comments": [
+      "You haven't edited shopping-list.txt."
+    ],
+    "status": "UNSUCCESSFUL"
+  },
+  {
+    "exercise_name": "grocery-shopping",
+    "started_at": 1752513791.1284,
+    "completed_at": 1752513791.214484,
+    "comments": [
+      "You haven't edited shopping-list.txt."
+    ],
+    "status": "UNSUCCESSFUL"
+  },
+  {
+    "exercise_name": "grocery-shopping",
+    "started_at": 1752513872.272286,
+    "completed_at": 1752513872.368074,
+    "comments": [
+      "You haven't edited shopping-list.txt."
+    ],
+    "status": "UNSUCCESSFUL"
+  },
+  {
+    "exercise_name": "grocery-shopping",
+    "started_at": 1752514008.426712,
+    "completed_at": 1752514008.820295,
+    "comments": [
+      "You haven't edited shopping-list.txt."
+    ],
+    "status": "UNSUCCESSFUL"
+  },
+  {
+    "exercise_name": "grocery-shopping",
+    "started_at": 1752546900.816191,
+    "completed_at": 1752546901.225885,
+    "comments": [
+      "Great work! You have successfully used `git add` and `git commit` to modify the shopping list! Keep it up!"
+    ],
+    "status": "SUCCESSFUL"
+  },
+  {
+    "exercise_name": "stage-fright",
+    "started_at": 1752512669.357929,
+    "completed_at": 1752512669.712757,
+    "comments": [
+      "Did not add joe.txt",
+      "Did not add alice.txt",
+      "Did not add bob.txt"
+    ],
+    "status": "UNSUCCESSFUL"
+  },
+  {
+    "exercise_name": "stage-fright",
+    "started_at": 1752512696.679758,
+    "completed_at": 1752512696.735084,
+    "comments": [
+      "Great work! You have successfully checked in all the actors!"
+    ],
+    "status": "SUCCESSFUL"
+  },
+  {
     "exercise_name": "under-control",
     "started_at": 1750091043.093615,
     "completed_at": 1750091043.094266,
@@ -12,6 +77,24 @@
     "exercise_name": "under-control",
     "started_at": 1750091140.316748,
     "completed_at": 1750091140.316937,
+    "comments": [
+      "You successfully used git init to initialize this folder as a Git repository!"
+    ],
+    "status": "SUCCESSFUL"
+  },
+  {
+    "exercise_name": "under-control",
+    "started_at": 1752510757.130968,
+    "completed_at": 1752510757.135902,
+    "comments": [
+      "Exercise is not a Git repository"
+    ],
+    "status": "ERROR"
+  },
+  {
+    "exercise_name": "under-control",
+    "started_at": 1752510898.459116,
+    "completed_at": 1752510898.803629,
     "comments": [
       "You successfully used git init to initialize this folder as a Git repository!"
     ],
