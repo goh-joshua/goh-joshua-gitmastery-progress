@@ -45,6 +45,42 @@
     "status": "SUCCESSFUL"
   },
   {
+    "exercise_name": "link-me",
+    "started_at": 1752835998.474628,
+    "completed_at": 1752835998.837657,
+    "comments": [
+      "Great work with using git remote to add an upstream remote!"
+    ],
+    "status": "SUCCESSFUL"
+  },
+  {
+    "exercise_name": "push-over",
+    "started_at": 1752835770.843608,
+    "completed_at": 1752835774.553131,
+    "comments": [
+      "Great work pushing changes to the remote!"
+    ],
+    "status": "SUCCESSFUL"
+  },
+  {
+    "exercise_name": "remote-control",
+    "started_at": 1752834888.723183,
+    "completed_at": 1752834965.7058,
+    "comments": [
+      "That is not the right Github url!"
+    ],
+    "status": "UNSUCCESSFUL"
+  },
+  {
+    "exercise_name": "remote-control",
+    "started_at": 1752834977.950402,
+    "completed_at": 1752835005.769444,
+    "comments": [
+      "Great work setting up a public remote repository!"
+    ],
+    "status": "SUCCESSFUL"
+  },
+  {
     "exercise_name": "stage-fright",
     "started_at": 1752512669.357929,
     "completed_at": 1752512669.712757,
@@ -63,6 +99,33 @@
       "Great work! You have successfully checked in all the actors!"
     ],
     "status": "SUCCESSFUL"
+  },
+  {
+    "exercise_name": "staging-intervention",
+    "started_at": 1752938381.816974,
+    "completed_at": 1752938385.482841,
+    "comments": [
+      "Great work! You have successfully fixed the attendance system!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "staging-intervention",
+    "started_at": 1752980884.378686,
+    "completed_at": 1752980884.739706,
+    "comments": [
+      "Great work! You have successfully fixed the attendance system!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "staging-intervention",
+    "started_at": 1752980972.551188,
+    "completed_at": 1752980972.601725,
+    "comments": [
+      "Great work! You have successfully fixed the attendance system!"
+    ],
+    "status": "Completed"
   },
   {
     "exercise_name": "under-control",
@@ -101,65 +164,40 @@
     "status": "SUCCESSFUL"
   },
   {
-    "exercise_name": "remote-control",
-    "started_at": 1752834888.723183,
-    "completed_at": 1752834965.7058,
+    "exercise_name": "ignoring-somethings",
+    "started_at": 1753160526.062432,
+    "completed_at": 1753160526.77373,
     "comments": [
-      "That is not the right Github url!"
+      "You have not made any commits yet!"
     ],
-    "status": "UNSUCCESSFUL"
+    "status": "Incomplete"
   },
   {
-    "exercise_name": "remote-control",
-    "started_at": 1752834977.950402,
-    "completed_at": 1752835005.769444,
+    "exercise_name": "ignoring-somethings",
+    "started_at": 1753160590.137055,
+    "completed_at": 1753160590.835894,
     "comments": [
-      "Great work setting up a public remote repository!"
+      "You are still ignoring many/file22.txt.",
+      "You are not ignoring ignore_me.txt",
+      "You are not ignoring runaway.txt. Find where the file is and fix that."
     ],
-    "status": "SUCCESSFUL"
+    "status": "Incomplete"
   },
   {
-    "exercise_name": "push-over",
-    "started_at": 1752835770.843608,
-    "completed_at": 1752835774.553131,
+    "exercise_name": "ignoring-somethings",
+    "started_at": 1753160715.690253,
+    "completed_at": 1753160716.516608,
     "comments": [
-      "Great work pushing changes to the remote!"
+      "You are still ignoring many/file22.txt."
     ],
-    "status": "SUCCESSFUL"
+    "status": "Incomplete"
   },
   {
-    "exercise_name": "link-me",
-    "started_at": 1752835998.474628,
-    "completed_at": 1752835998.837657,
+    "exercise_name": "ignoring-somethings",
+    "started_at": 1753160982.271573,
+    "completed_at": 1753160983.444096,
     "comments": [
-      "Great work with using git remote to add an upstream remote!"
-    ],
-    "status": "SUCCESSFUL"
-  },
-  {
-    "exercise_name": "staging-intervention",
-    "started_at": 1752938381.816974,
-    "completed_at": 1752938385.482841,
-    "comments": [
-      "Great work! You have successfully fixed the attendance system!"
-    ],
-    "status": "Completed"
-  },
-  {
-    "exercise_name": "staging-intervention",
-    "started_at": 1752980884.378686,
-    "completed_at": 1752980884.739706,
-    "comments": [
-      "Great work! You have successfully fixed the attendance system!"
-    ],
-    "status": "Completed"
-  },
-  {
-    "exercise_name": "staging-intervention",
-    "started_at": 1752980972.551188,
-    "completed_at": 1752980972.601725,
-    "comments": [
-      "Great work! You have successfully fixed the attendance system!"
+      "Great work using .gitignore!"
     ],
     "status": "Completed"
   }
