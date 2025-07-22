@@ -18,6 +18,15 @@
     "status": "Incomplete"
   },
   {
+    "exercise_name": "grocery-shopping",
+    "started_at": 1753155426.558231,
+    "completed_at": 1753155427.559658,
+    "comments": [
+      "There are no grocery list items removed from the shopping list."
+    ],
+    "status": "Incomplete"
+  },
+  {
     "exercise_name": "ignoring-somethings",
     "started_at": 1752220514.907482,
     "completed_at": 1752220515.449185,
