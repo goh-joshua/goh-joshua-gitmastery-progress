@@ -1,0 +1,56 @@
+[
+  {
+    "exercise_name": "remote-control",
+    "started_at": 1753413130.074716,
+    "completed_at": 1753413225.076325,
+    "comments": [
+      "That is not the right Github url!"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "push-over",
+    "started_at": 1753413421.414653,
+    "completed_at": 1753413421.829524,
+    "comments": [
+      "You should have made a separate commit!"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "push-over",
+    "started_at": 1753413490.027479,
+    "completed_at": 1753413490.544733,
+    "comments": [
+      "You should have made a separate commit!"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "push-over",
+    "started_at": 1753413561.610435,
+    "completed_at": 1753413564.996737,
+    "comments": [
+      "You might have forgotten to push your commit to the remote repository."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "push-over",
+    "started_at": 1753413593.767213,
+    "completed_at": 1753413597.050669,
+    "comments": [
+      "Great work pushing changes to the remote!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "ignoring-somethings",
+    "started_at": 1753413993.359744,
+    "completed_at": 1753413993.791328,
+    "comments": [
+      "Great work using .gitignore!"
+    ],
+    "status": "Completed"
+  }
+]
