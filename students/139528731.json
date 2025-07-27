@@ -1,0 +1,29 @@
+[
+  {
+    "exercise_name": "remote-control",
+    "started_at": 1753607824.287131,
+    "completed_at": 1753607884.805111,
+    "comments": [
+      "Great work setting up a public remote repository!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "link-me",
+    "started_at": 1753608078.657748,
+    "completed_at": 1753608078.991118,
+    "comments": [
+      "Great work with using git remote to add an upstream remote!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "push-over",
+    "started_at": 1753608212.155198,
+    "completed_at": 1753608213.727337,
+    "comments": [
+      "Great work pushing changes to the remote!"
+    ],
+    "status": "Completed"
+  }
+]
