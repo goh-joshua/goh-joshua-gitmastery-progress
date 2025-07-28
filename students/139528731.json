@@ -1,10 +1,28 @@
 [
   {
-    "exercise_name": "remote-control",
-    "started_at": 1753607824.287131,
-    "completed_at": 1753607884.805111,
+    "exercise_name": "grocery-shopping",
+    "started_at": 1753694650.913544,
+    "completed_at": 1753694652.233651,
     "comments": [
-      "Great work setting up a public remote repository!"
+      "Great work! You have successfully used `git add` and `git commit` to modify the shopping list! Keep it up!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "ignoring-somethings",
+    "started_at": 1753608360.482795,
+    "completed_at": 1753608361.369839,
+    "comments": [
+      "You are not ignoring runaway.txt. Find where the file is and fix that."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "ignoring-somethings",
+    "started_at": 1753608408.338226,
+    "completed_at": 1753608409.102772,
+    "comments": [
+      "Great work using .gitignore!"
     ],
     "status": "Completed"
   },
@@ -27,20 +45,56 @@
     "status": "Completed"
   },
   {
-    "exercise_name": "ignoring-somethings",
-    "started_at": 1753608360.482795,
-    "completed_at": 1753608361.369839,
+    "exercise_name": "remote-control",
+    "started_at": 1753607824.287131,
+    "completed_at": 1753607884.805111,
     "comments": [
-      "You are not ignoring runaway.txt. Find where the file is and fix that."
+      "Great work setting up a public remote repository!"
     ],
-    "status": "Incomplete"
+    "status": "Completed"
   },
   {
-    "exercise_name": "ignoring-somethings",
-    "started_at": 1753608408.338226,
-    "completed_at": 1753608409.102772,
+    "exercise_name": "stage-fright",
+    "started_at": 1753694485.035863,
+    "completed_at": 1753694485.648519,
     "comments": [
-      "Great work using .gitignore!"
+      "Great work! You have successfully checked in all the actors!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "under-control",
+    "started_at": 1753694335.907623,
+    "completed_at": 1753694336.389767,
+    "comments": [
+      "You successfully used git init to initialize this folder as a Git repository!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "remote-control",
+    "started_at": 1753694954.272952,
+    "completed_at": 1753694958.950835,
+    "comments": [
+      "Great work setting up a public remote repository!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "link-me",
+    "started_at": 1753695032.446969,
+    "completed_at": 1753695032.857346,
+    "comments": [
+      "Great work with using git remote to add an upstream remote!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "push-over",
+    "started_at": 1753695141.923104,
+    "completed_at": 1753695143.820913,
+    "comments": [
+      "Great work pushing changes to the remote!"
     ],
     "status": "Completed"
   }
