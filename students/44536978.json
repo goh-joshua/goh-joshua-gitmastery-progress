@@ -61,5 +61,23 @@
       "Great work with using git branch and git checkout to fix the bugs!"
     ],
     "status": "Completed"
+  },
+  {
+    "exercise_name": "branch-bender",
+    "started_at": 1754022982.329268,
+    "completed_at": 1754022982.750849,
+    "comments": [
+      "You need to start merging the feature branches."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "branch-bender",
+    "started_at": 1754023169.112027,
+    "completed_at": 1754023169.533879,
+    "comments": [
+      "Great work with merging the branches in order! Try running the HTML files locally!"
+    ],
+    "status": "Completed"
   }
 ]
