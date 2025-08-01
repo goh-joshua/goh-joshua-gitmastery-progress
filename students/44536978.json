@@ -79,5 +79,25 @@
       "Great work with merging the branches in order! Try running the HTML files locally!"
     ],
     "status": "Completed"
+  },
+  {
+    "exercise_name": "conflict-mediator",
+    "started_at": 1754026088.272078,
+    "completed_at": 1754026088.321691,
+    "comments": [
+      "You should resolve the merge by setting the print to be 'Hello Everyone and World!'",
+      "Reset the repository using \"gitmastery progress reset\" and start again"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "conflict-mediator",
+    "started_at": 1754026245.539239,
+    "completed_at": 1754026245.854505,
+    "comments": [
+      "You should resolve the merge by setting the print to be 'Hello Everyone and World!'",
+      "Reset the repository using \"gitmastery progress reset\" and start again"
+    ],
+    "status": "Incomplete"
   }
 ]
