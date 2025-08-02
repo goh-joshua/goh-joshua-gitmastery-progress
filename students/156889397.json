@@ -296,5 +296,41 @@
       "Great work resolving the merge conflict!"
     ],
     "status": "Completed"
+  },
+  {
+    "exercise_name": "link-me",
+    "started_at": 1754113001.496354,
+    "completed_at": 1754113002.009734,
+    "comments": [
+      "'GitAutograderRemote' object has no attribute 'is_for_repo'"
+    ],
+    "status": "Error"
+  },
+  {
+    "exercise_name": "link-me",
+    "started_at": 1754113066.120127,
+    "completed_at": 1754113066.15538,
+    "comments": [
+      "'GitAutograderRemote' object has no attribute 'is_for_repo'"
+    ],
+    "status": "Error"
+  },
+  {
+    "exercise_name": "link-me",
+    "started_at": 1754113078.485017,
+    "completed_at": 1754113078.51629,
+    "comments": [
+      "'GitAutograderRemote' object has no attribute 'is_for_repo'"
+    ],
+    "status": "Error"
+  },
+  {
+    "exercise_name": "link-me",
+    "started_at": 1754113302.562679,
+    "completed_at": 1754113303.073088,
+    "comments": [
+      "'GitAutograderRemote' object has no attribute 'is_for_repo'"
+    ],
+    "status": "Error"
   }
 ]
