@@ -133,5 +133,23 @@
       "Great work resolving the merge conflict!"
     ],
     "status": "Completed"
+  },
+  {
+    "exercise_name": "clone-repo",
+    "started_at": 1754748621.293046,
+    "completed_at": 1754748624.018443,
+    "comments": [
+      "C:\\Users\\zheng\\OneDrive\\Desktop\\gitmastery-exercises\\clone-repo\\shapes"
+    ],
+    "status": "Error"
+  },
+  {
+    "exercise_name": "clone-repo",
+    "started_at": 1754749204.062986,
+    "completed_at": 1754749206.76528,
+    "comments": [
+      "Great work creating a clone of a fork from Github!"
+    ],
+    "status": "Completed"
   }
 ]
