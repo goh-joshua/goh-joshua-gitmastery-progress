@@ -247,29 +247,11 @@
   },
   {
     "exercise_name": "fetch-and-pull",
-    "started_at": 1754723913.191439,
-    "completed_at": 1754723913.516054,
+    "started_at": 1754724399.29212,
+    "completed_at": 1754724399.375014,
     "comments": [
-      "Remote 'alice-upstream' is missing! Remember to add it and point it to https://github.com/git-mastery/gm-shapes-alice"
+      "Great work fetching and pulling different upstreams!"
     ],
-    "status": "Incomplete"
-  },
-  {
-    "exercise_name": "fetch-and-pull",
-    "started_at": 1754723940.356901,
-    "completed_at": 1754723940.41402,
-    "comments": [
-      "Remote 'alice-upstream' is not pointing to https://github.com/git-mastery/gm-shapes-alice, fix that!"
-    ],
-    "status": "Incomplete"
-  },
-  {
-    "exercise_name": "fetch-and-pull",
-    "started_at": 1754724012.466231,
-    "completed_at": 1754724012.537748,
-    "comments": [
-      "'CommitHelper' object has no attribute 'commit_or_none'"
-    ],
-    "status": "Error"
+    "status": "Completed"
   }
 ]
