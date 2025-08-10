@@ -298,5 +298,105 @@
       "Great work resolving the merge conflict!"
     ],
     "status": "Completed"
+  },
+  {
+    "exercise_name": "fork-repo",
+    "started_at": 1754836406.31666,
+    "completed_at": 1754836408.548756,
+    "comments": [
+      "Great work creating a fork with Github!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "fork-repo",
+    "started_at": 1754836654.227513,
+    "completed_at": 1754836655.815602,
+    "comments": [
+      "No fork of git-mastery/gm-shapes found. Remember to fork it from https://github.com/git-mastery/gm-shapes and keep the name as gm-shapes"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "fork-repo",
+    "started_at": 1754836677.270036,
+    "completed_at": 1754836679.316297,
+    "comments": [
+      "Great work creating a fork with Github!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "clone-repo",
+    "started_at": 1754836731.540593,
+    "completed_at": 1754836734.202141,
+    "comments": [
+      "Clone named shapes is missing! Remember to clone your fork using the name 'shapes', not 'gm-shapes'!"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "clone-repo",
+    "started_at": 1754836749.662427,
+    "completed_at": 1754836752.127922,
+    "comments": [
+      "The remote 'upstream' is missing!"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "clone-repo",
+    "started_at": 1754836787.966388,
+    "completed_at": 1754836790.32989,
+    "comments": [
+      "Great work creating a clone of a fork from Github!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "fetch-and-pull",
+    "started_at": 1754836864.762292,
+    "completed_at": 1754836865.298171,
+    "comments": [
+      "You have not fetched Alice's changes yet!"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "fetch-and-pull",
+    "started_at": 1754836874.79748,
+    "completed_at": 1754836875.336837,
+    "comments": [
+      "You did not pull Alice's changes to your own main branch!"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "fetch-and-pull",
+    "started_at": 1754836907.156102,
+    "completed_at": 1754836907.357277,
+    "comments": [
+      "Remote 'bob-upstream' is missing! Remember to add it and point it to https://github.com/git-mastery/gm-shapes-bob"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "fetch-and-pull",
+    "started_at": 1754836958.152253,
+    "completed_at": 1754836958.557884,
+    "comments": [
+      "You should not have pulled Bob's changes to your own main branch!",
+      "Reset the exercise using 'gitmastery progress reset' to try again!"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "fetch-and-pull",
+    "started_at": 1754836970.952063,
+    "completed_at": 1754836971.123481,
+    "comments": [
+      "Great work fetching and pulling different upstreams!"
+    ],
+    "status": "Completed"
   }
 ]
