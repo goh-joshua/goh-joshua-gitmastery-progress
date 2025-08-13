@@ -54,24 +54,12 @@
     "status": "Completed"
   },
   {
-    "exercise_name": "ignoring-somethings",
-    "started_at": 1755073775.514673,
-    "completed_at": 1755073775.965038,
+    "exercise_name": "fork-repo",
+    "started_at": 1755074574.550656,
+    "completed_at": 1755074577.311849,
     "comments": [
-      "You have not made any commits yet!"
+      "Great work creating a fork with Github!"
     ],
-    "status": "Incomplete"
-  },
-  {
-    "exercise_name": "ignoring-somethings",
-    "started_at": 1755073859.802502,
-    "completed_at": 1755073860.3642,
-    "comments": [
-      "You are still ignoring many/file22.txt.",
-      "You are still ignoring why_am_i_hidden.txt. Find where the file is and fix that.",
-      "You are not ignoring ignore_me.txt",
-      "You are not ignoring runaway.txt. Find where the file is and fix that."
-    ],
-    "status": "Incomplete"
+    "status": "Completed"
   }
 ]
