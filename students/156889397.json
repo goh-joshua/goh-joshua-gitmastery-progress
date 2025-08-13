@@ -498,11 +498,38 @@
   },
   {
     "exercise_name": "branch-rename",
-    "started_at": 1755078705.399066,
-    "completed_at": 1755078705.80556,
+    "started_at": 1755081459.211606,
+    "completed_at": 1755081459.270623,
     "comments": [
-      "Branch 'login' still exists! Remember to rename it to 'feature/login'"
+      "Great work with renaming the branches on your local repository!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "branch-delete",
+    "started_at": 1755081568.691699,
+    "completed_at": 1755081569.101394,
+    "comments": [
+      "Branch 'optimization-approach-1' still exists! Remember to delete it"
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "branch-delete",
+    "started_at": 1755081593.626115,
+    "completed_at": 1755081593.669445,
+    "comments": [
+      "Branch 'optimization-approach-2' still exists! Remember to delete it"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "branch-delete",
+    "started_at": 1755081616.416809,
+    "completed_at": 1755081616.476253,
+    "comments": [
+      "Great job using git branch to delete both merged and unmerged branches!"
+    ],
+    "status": "Completed"
   }
 ]
