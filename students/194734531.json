@@ -1,0 +1,29 @@
+[
+  {
+    "exercise_name": "stage-fright",
+    "started_at": 1755059016.950902,
+    "completed_at": 1755059017.410232,
+    "comments": [
+      "Great work! You have successfully checked in all the actors!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "under-control",
+    "started_at": 1755042247.105687,
+    "completed_at": 1755042247.520974,
+    "comments": [
+      "You successfully used git init to initialize this folder as a Git repository!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "remote-control",
+    "started_at": 1755066822.059556,
+    "completed_at": 1755066871.830499,
+    "comments": [
+      "Great work setting up a public remote repository!"
+    ],
+    "status": "Completed"
+  }
+]
