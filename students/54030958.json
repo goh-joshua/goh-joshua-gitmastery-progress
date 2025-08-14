@@ -1,0 +1,128 @@
+[
+  {
+    "exercise_name": "grocery-shopping",
+    "started_at": 1755086968.307174,
+    "completed_at": 1755086968.606697,
+    "comments": [
+      "Branch main is missing."
+    ],
+    "status": "Error"
+  },
+  {
+    "exercise_name": "grocery-shopping",
+    "started_at": 1755087039.226158,
+    "completed_at": 1755087039.253435,
+    "comments": [
+      "Branch main is missing."
+    ],
+    "status": "Error"
+  },
+  {
+    "exercise_name": "stage-fright",
+    "started_at": 1755049929.362364,
+    "completed_at": 1755049929.675577,
+    "comments": [
+      "Ref 'HEAD' did not resolve to an object"
+    ],
+    "status": "Error"
+  },
+  {
+    "exercise_name": "stage-fright",
+    "started_at": 1755050001.340617,
+    "completed_at": 1755050001.366467,
+    "comments": [
+      "Ref 'HEAD' did not resolve to an object"
+    ],
+    "status": "Error"
+  },
+  {
+    "exercise_name": "stage-fright",
+    "started_at": 1755050091.226879,
+    "completed_at": 1755050091.251907,
+    "comments": [
+      "Ref 'HEAD' did not resolve to an object"
+    ],
+    "status": "Error"
+  },
+  {
+    "exercise_name": "stage-fright",
+    "started_at": 1755050162.844477,
+    "completed_at": 1755050162.868923,
+    "comments": [
+      "Ref 'HEAD' did not resolve to an object"
+    ],
+    "status": "Error"
+  },
+  {
+    "exercise_name": "staging-intervention",
+    "started_at": 1755050420.389587,
+    "completed_at": 1755050420.395591,
+    "comments": [
+      "Exercise is not a Git repository"
+    ],
+    "status": "Error"
+  },
+  {
+    "exercise_name": "staging-intervention",
+    "started_at": 1755050458.29114,
+    "completed_at": 1755050458.620953,
+    "comments": [
+      "You should only be unstaging the attendance files for Josh, Adam, and Mary."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "staging-intervention",
+    "started_at": 1755050471.211389,
+    "completed_at": 1755050471.265694,
+    "comments": [
+      "Great work! You have successfully fixed the attendance system!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "under-control",
+    "started_at": 1755049258.451924,
+    "completed_at": 1755049258.73083,
+    "comments": [
+      "You successfully used git init to initialize this folder as a Git repository!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "remote-control",
+    "started_at": 1755148138.806145,
+    "completed_at": 1755148188.840523,
+    "comments": [
+      "Great work setting up a public remote repository!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "link-me",
+    "started_at": 1755148640.384019,
+    "completed_at": 1755148640.389885,
+    "comments": [
+      "Exercise is not a Git repository"
+    ],
+    "status": "Error"
+  },
+  {
+    "exercise_name": "link-me",
+    "started_at": 1755148770.686225,
+    "completed_at": 1755148770.976923,
+    "comments": [
+      "Missing remote called 'upstream'."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "link-me",
+    "started_at": 1755148974.88157,
+    "completed_at": 1755148974.908219,
+    "comments": [
+      "Great work with using git remote to add an upstream remote!"
+    ],
+    "status": "Completed"
+  }
+]
