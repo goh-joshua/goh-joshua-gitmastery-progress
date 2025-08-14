@@ -1,0 +1,20 @@
+[
+  {
+    "exercise_name": "link-me",
+    "started_at": 1755196522.234373,
+    "completed_at": 1755196522.643693,
+    "comments": [
+      "Wrong 'upstream' remote URL"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "link-me",
+    "started_at": 1755196541.409674,
+    "completed_at": 1755196541.448438,
+    "comments": [
+      "Wrong 'upstream' remote URL"
+    ],
+    "status": "Incomplete"
+  }
+]
