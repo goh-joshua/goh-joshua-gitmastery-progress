@@ -83,10 +83,10 @@
   },
   {
     "exercise_name": "clone-repo",
-    "started_at": 1755185994.049389,
-    "completed_at": 1755185995.989908,
+    "started_at": 1755190052.73717,
+    "completed_at": 1755190054.379175,
     "comments": [
-      "The remote 'origin' is missing!"
+      "The origin remote does not point to your fork!"
     ],
     "status": "Incomplete"
   }
