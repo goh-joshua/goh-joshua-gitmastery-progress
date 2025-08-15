@@ -52,5 +52,68 @@
       "You successfully used git init to initialize this folder as a Git repository!"
     ],
     "status": "Completed"
+  },
+  {
+    "exercise_name": "remote-control",
+    "started_at": 1755264858.9873,
+    "completed_at": 1755264858.988541,
+    "comments": [
+      "'downloaded_at'"
+    ],
+    "status": "Error"
+  },
+  {
+    "exercise_name": "remote-control",
+    "started_at": 1755265162.211168,
+    "completed_at": 1755265162.212289,
+    "comments": [
+      "'downloaded_at'"
+    ],
+    "status": "Error"
+  },
+  {
+    "exercise_name": "remote-control",
+    "started_at": 1755265401.40922,
+    "completed_at": 1755265401.410855,
+    "comments": [
+      "'downloaded_at'"
+    ],
+    "status": "Error"
+  },
+  {
+    "exercise_name": "remote-control",
+    "started_at": 1755265564.627732,
+    "completed_at": 1755265903.725117,
+    "comments": [
+      "Great work setting up a public remote repository!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "link-me",
+    "started_at": 1755266126.811364,
+    "completed_at": 1755266127.128279,
+    "comments": [
+      "Missing remote called 'upstream'."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "link-me",
+    "started_at": 1755266186.452909,
+    "completed_at": 1755266186.505757,
+    "comments": [
+      "Great work with using git remote to add an upstream remote!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "push-over",
+    "started_at": 1755267105.05823,
+    "completed_at": 1755267106.131066,
+    "comments": [
+      "Great work pushing changes to the remote!"
+    ],
+    "status": "Completed"
   }
 ]
