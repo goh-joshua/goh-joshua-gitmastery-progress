@@ -25,5 +25,107 @@
       "You successfully used git init to initialize this folder as a Git repository!"
     ],
     "status": "Completed"
+  },
+  {
+    "exercise_name": "remote-control",
+    "started_at": 1755224646.858919,
+    "completed_at": 1755224656.002721,
+    "comments": [
+      "That is not the right Github url!"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "remote-control",
+    "started_at": 1755224672.540945,
+    "completed_at": 1755224725.09979,
+    "comments": [
+      "Great work setting up a public remote repository!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "link-me",
+    "started_at": 1755225124.879049,
+    "completed_at": 1755225125.167426,
+    "comments": [
+      "Great work with using git remote to add an upstream remote!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "push-over",
+    "started_at": 1755227949.373582,
+    "completed_at": 1755227950.49859,
+    "comments": [
+      "Great work pushing changes to the remote!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "ignoring-somethings",
+    "started_at": 1755228253.518791,
+    "completed_at": 1755228253.941456,
+    "comments": [
+      "You have not made any commits yet!"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "ignoring-somethings",
+    "started_at": 1755228278.459426,
+    "completed_at": 1755228278.548646,
+    "comments": [
+      "You have not made any commits yet!"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "ignoring-somethings",
+    "started_at": 1755228325.648497,
+    "completed_at": 1755228325.733504,
+    "comments": [
+      "You have not made any commits yet!"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "ignoring-somethings",
+    "started_at": 1755228385.789832,
+    "completed_at": 1755228385.879152,
+    "comments": [
+      "You have not made any commits yet!"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "ignoring-somethings",
+    "started_at": 1755228447.439436,
+    "completed_at": 1755228447.532395,
+    "comments": [
+      "You have not made any commits yet!"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "ignoring-somethings",
+    "started_at": 1755228488.515877,
+    "completed_at": 1755228490.601661,
+    "comments": [
+      "You are still ignoring many/file22.txt.",
+      "You are still ignoring why_am_i_hidden.txt. Find where the file is and fix that.",
+      "You are not ignoring ignore_me.txt",
+      "You are not ignoring runaway.txt. Find where the file is and fix that."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "ignoring-somethings",
+    "started_at": 1755228626.340228,
+    "completed_at": 1755228628.670823,
+    "comments": [
+      "Great work using .gitignore!"
+    ],
+    "status": "Completed"
   }
 ]
