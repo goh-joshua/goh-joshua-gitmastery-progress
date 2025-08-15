@@ -160,5 +160,23 @@
       "Branch main is missing the Git Mastery start commit"
     ],
     "status": "Error"
+  },
+  {
+    "exercise_name": "fork-repo",
+    "started_at": 1755231007.265559,
+    "completed_at": 1755231009.374437,
+    "comments": [
+      "Great work creating a fork with Github!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "clone-repo",
+    "started_at": 1755231491.689301,
+    "completed_at": 1755231493.792955,
+    "comments": [
+      "Great work creating a clone of a fork from Github!"
+    ],
+    "status": "Completed"
   }
 ]
