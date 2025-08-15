@@ -1,0 +1,29 @@
+[
+  {
+    "exercise_name": "remote-control",
+    "started_at": 1755235737.53563,
+    "completed_at": 1755235750.254961,
+    "comments": [
+      "That is not the right Github url!"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "remote-control",
+    "started_at": 1755235775.3697,
+    "completed_at": 1755235777.837501,
+    "comments": [
+      "That is not the right Github url!"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "remote-control",
+    "started_at": 1755235820.578778,
+    "completed_at": 1755235854.798165,
+    "comments": [
+      "Great work setting up a public remote repository!"
+    ],
+    "status": "Completed"
+  }
+]
