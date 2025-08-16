@@ -43,5 +43,77 @@
       "Great work setting up a public remote repository!"
     ],
     "status": "Completed"
+  },
+  {
+    "exercise_name": "link-me",
+    "started_at": 1755354207.47757,
+    "completed_at": 1755354207.865932,
+    "comments": [
+      "Wrong 'upstream' remote URL"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "link-me",
+    "started_at": 1755354383.876928,
+    "completed_at": 1755354383.916342,
+    "comments": [
+      "Wrong 'upstream' remote URL"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "link-me",
+    "started_at": 1755354424.368513,
+    "completed_at": 1755354424.657016,
+    "comments": [
+      "too many values to unpack (expected 2)"
+    ],
+    "status": "Error"
+  },
+  {
+    "exercise_name": "link-me",
+    "started_at": 1755354440.854977,
+    "completed_at": 1755354440.892458,
+    "comments": [
+      "Wrong 'upstream' remote URL"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "link-me",
+    "started_at": 1755354460.500201,
+    "completed_at": 1755354460.552686,
+    "comments": [
+      "Wrong 'upstream' remote URL"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "link-me",
+    "started_at": 1755354590.000451,
+    "completed_at": 1755354590.066839,
+    "comments": [
+      "Wrong 'upstream' remote URL"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "link-me",
+    "started_at": 1755354604.717802,
+    "completed_at": 1755354605.037781,
+    "comments": [
+      "Wrong 'upstream' remote URL"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "link-me",
+    "started_at": 1755354667.876613,
+    "completed_at": 1755354667.912504,
+    "comments": [
+      "Great work with using git remote to add an upstream remote!"
+    ],
+    "status": "Completed"
   }
 ]
