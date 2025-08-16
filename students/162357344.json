@@ -34,5 +34,50 @@
       "You successfully used git init to initialize this folder as a Git repository!"
     ],
     "status": "Completed"
+  },
+  {
+    "exercise_name": "remote-control",
+    "started_at": 1755324653.165057,
+    "completed_at": 1755324739.148209,
+    "comments": [
+      "Great work setting up a public remote repository!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "link-me",
+    "started_at": 1755325263.761835,
+    "completed_at": 1755325264.052627,
+    "comments": [
+      "too many values to unpack (expected 2)"
+    ],
+    "status": "Error"
+  },
+  {
+    "exercise_name": "link-me",
+    "started_at": 1755325301.788913,
+    "completed_at": 1755325301.831477,
+    "comments": [
+      "too many values to unpack (expected 2)"
+    ],
+    "status": "Error"
+  },
+  {
+    "exercise_name": "link-me",
+    "started_at": 1755325398.266559,
+    "completed_at": 1755325398.309284,
+    "comments": [
+      "too many values to unpack (expected 2)"
+    ],
+    "status": "Error"
+  },
+  {
+    "exercise_name": "link-me",
+    "started_at": 1755325435.516732,
+    "completed_at": 1755325435.562642,
+    "comments": [
+      "Great work with using git remote to add an upstream remote!"
+    ],
+    "status": "Completed"
   }
 ]
