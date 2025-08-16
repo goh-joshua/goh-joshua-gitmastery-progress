@@ -124,5 +124,41 @@
       "The remote repository url you provided either does not exist or is private. Try again!"
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "remote-control",
+    "started_at": 1755323092.513059,
+    "completed_at": 1755323094.998765,
+    "comments": [
+      "That is not the right Github url!"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "remote-control",
+    "started_at": 1755323104.021724,
+    "completed_at": 1755323106.747499,
+    "comments": [
+      "That is not the right Github url!"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "remote-control",
+    "started_at": 1755323122.266467,
+    "completed_at": 1755323124.044957,
+    "comments": [
+      "The remote repository url you provided either does not exist or is private. Try again!"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "link-me",
+    "started_at": 1755326007.359226,
+    "completed_at": 1755326007.762494,
+    "comments": [
+      "Great work with using git remote to add an upstream remote!"
+    ],
+    "status": "Completed"
   }
 ]
