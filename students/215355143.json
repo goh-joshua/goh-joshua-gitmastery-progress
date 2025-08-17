@@ -1,0 +1,20 @@
+[
+  {
+    "exercise_name": "under-control",
+    "started_at": 1755420895.381665,
+    "completed_at": 1755420895.681168,
+    "comments": [
+      "You successfully used git init to initialize this folder as a Git repository!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "remote-control",
+    "started_at": 1755427312.43812,
+    "completed_at": 1755427423.984448,
+    "comments": [
+      "Great work setting up a public remote repository!"
+    ],
+    "status": "Completed"
+  }
+]
