@@ -79,5 +79,23 @@
       "Great work pushing changes to the remote!"
     ],
     "status": "Completed"
+  },
+  {
+    "exercise_name": "ignoring-somethings",
+    "started_at": 1755413608.544161,
+    "completed_at": 1755413609.098581,
+    "comments": [
+      "You have not made any commits yet!"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "ignoring-somethings",
+    "started_at": 1755413679.936656,
+    "completed_at": 1755413687.098629,
+    "comments": [
+      "Great work using .gitignore!"
+    ],
+    "status": "Completed"
   }
 ]
