@@ -1,0 +1,29 @@
+[
+  {
+    "exercise_name": "staging-intervention",
+    "started_at": 1755062667.054335,
+    "completed_at": 1755062667.480258,
+    "comments": [
+      "Great work! You have successfully fixed the attendance system!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "under-control",
+    "started_at": 1755006930.302388,
+    "completed_at": 1755006930.305956,
+    "comments": [
+      "Exercise is not a Git repository"
+    ],
+    "status": "Error"
+  },
+  {
+    "exercise_name": "under-control",
+    "started_at": 1755007125.387833,
+    "completed_at": 1755007125.786876,
+    "comments": [
+      "You successfully used git init to initialize this folder as a Git repository!"
+    ],
+    "status": "Completed"
+  }
+]
