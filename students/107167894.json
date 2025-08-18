@@ -1,0 +1,56 @@
+[
+  {
+    "exercise_name": "grocery-shopping",
+    "started_at": 1754912673.625043,
+    "completed_at": 1754912674.244053,
+    "comments": [
+      "Great work! You have successfully used `git add` and `git commit` to modify the shopping list! Keep it up!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "stage-fright",
+    "started_at": 1754911868.444218,
+    "completed_at": 1754911868.897333,
+    "comments": [
+      "Great work! You have successfully checked in all the actors!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "staging-intervention",
+    "started_at": 1754912068.223338,
+    "completed_at": 1754912068.57807,
+    "comments": [
+      "Great work! You have successfully fixed the attendance system!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "under-control",
+    "started_at": 1754910737.239363,
+    "completed_at": 1754910737.610161,
+    "comments": [
+      "You successfully used git init to initialize this folder as a Git repository!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "remote-control",
+    "started_at": 1755498228.174525,
+    "completed_at": 1755498306.530062,
+    "comments": [
+      "Great work setting up a public remote repository!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "link-me",
+    "started_at": 1755498654.576733,
+    "completed_at": 1755498654.612616,
+    "comments": [
+      "Great work with using git remote to add an upstream remote!"
+    ],
+    "status": "Completed"
+  }
+]
