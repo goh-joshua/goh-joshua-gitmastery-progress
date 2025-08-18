@@ -46,11 +46,29 @@
   },
   {
     "exercise_name": "link-me",
-    "started_at": 1755528475.479423,
-    "completed_at": 1755528475.813845,
+    "started_at": 1755529603.014684,
+    "completed_at": 1755529603.150048,
     "comments": [
       "Wrong 'upstream' remote URL"
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "push-over",
+    "started_at": 1755530125.847049,
+    "completed_at": 1755530126.197877,
+    "comments": [
+      "You should have made a separate commit!"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "push-over",
+    "started_at": 1755530166.398386,
+    "completed_at": 1755530167.702058,
+    "comments": [
+      "Great work pushing changes to the remote!"
+    ],
+    "status": "Completed"
   }
 ]
