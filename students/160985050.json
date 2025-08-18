@@ -1,0 +1,56 @@
+[
+  {
+    "exercise_name": "grocery-shopping",
+    "started_at": 1755498537.566738,
+    "completed_at": 1755498538.159777,
+    "comments": [
+      "Great work! You have successfully used `git add` and `git commit` to modify the shopping list! Keep it up!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "stage-fright",
+    "started_at": 1755497755.994862,
+    "completed_at": 1755497756.36656,
+    "comments": [
+      "Great work! You have successfully checked in all the actors!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "staging-intervention",
+    "started_at": 1755497993.445195,
+    "completed_at": 1755497993.811787,
+    "comments": [
+      "You should only be unstaging the attendance files for Josh, Adam, and Mary."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "staging-intervention",
+    "started_at": 1755498041.117688,
+    "completed_at": 1755498041.444448,
+    "comments": [
+      "Great work! You have successfully fixed the attendance system!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "under-control",
+    "started_at": 1755497003.629058,
+    "completed_at": 1755497004.058292,
+    "comments": [
+      "You successfully used git init to initialize this folder as a Git repository!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "remote-control",
+    "started_at": 1755504651.079838,
+    "completed_at": 1755504753.051032,
+    "comments": [
+      "Great work setting up a public remote repository!"
+    ],
+    "status": "Completed"
+  }
+]
