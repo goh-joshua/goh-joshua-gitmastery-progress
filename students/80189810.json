@@ -88,5 +88,41 @@
       "Great work using .gitignore!"
     ],
     "status": "Completed"
+  },
+  {
+    "exercise_name": "fork-repo",
+    "started_at": 1755532089.391853,
+    "completed_at": 1755532091.398258,
+    "comments": [
+      "Great work creating a fork with Github!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "clone-repo",
+    "started_at": 1755532346.359417,
+    "completed_at": 1755532349.664529,
+    "comments": [
+      "The remote 'upstream' is missing!"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "clone-repo",
+    "started_at": 1755532429.278502,
+    "completed_at": 1755532431.267156,
+    "comments": [
+      "Great work creating a clone of a fork from Github!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "fetch-and-pull",
+    "started_at": 1755532798.008171,
+    "completed_at": 1755532798.427789,
+    "comments": [
+      "Great work fetching and pulling different upstreams!"
+    ],
+    "status": "Completed"
   }
 ]
