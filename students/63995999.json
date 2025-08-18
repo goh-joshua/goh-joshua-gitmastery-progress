@@ -1,14 +1,5 @@
 [
   {
-    "exercise_name": "link-me",
-    "started_at": 1755507578.961501,
-    "completed_at": 1755507579.348817,
-    "comments": [
-      "too many values to unpack (expected 2)"
-    ],
-    "status": "Error"
-  },
-  {
     "exercise_name": "remote-control",
     "started_at": 1755507038.14999,
     "completed_at": 1755507092.554435,
@@ -16,5 +7,77 @@
       "Great work setting up a public remote repository!"
     ],
     "status": "Completed"
+  },
+  {
+    "exercise_name": "link-me",
+    "started_at": 1755519882.47323,
+    "completed_at": 1755519882.497793,
+    "comments": [
+      "Great work with using git remote to add an upstream remote!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "push-over",
+    "started_at": 1755519995.423077,
+    "completed_at": 1755519995.774783,
+    "comments": [
+      "You should have made a separate commit!"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "push-over",
+    "started_at": 1755520227.048795,
+    "completed_at": 1755520228.006964,
+    "comments": [
+      "Great work pushing changes to the remote!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "ignoring-somethings",
+    "started_at": 1755520701.918946,
+    "completed_at": 1755520702.060587,
+    "comments": [
+      "You have not made any commits yet!"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "ignoring-somethings",
+    "started_at": 1755520770.714245,
+    "completed_at": 1755520776.03201,
+    "comments": [
+      "Great work using .gitignore!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "fork-repo",
+    "started_at": 1755520868.062492,
+    "completed_at": 1755520870.154036,
+    "comments": [
+      "Great work creating a fork with Github!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "clone-repo",
+    "started_at": 1755521217.26303,
+    "completed_at": 1755521219.285574,
+    "comments": [
+      "Great work creating a clone of a fork from Github!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "fetch-and-pull",
+    "started_at": 1755521579.068166,
+    "completed_at": 1755521579.405183,
+    "comments": [
+      "You have not fetched Alice's changes yet!"
+    ],
+    "status": "Incomplete"
   }
 ]
