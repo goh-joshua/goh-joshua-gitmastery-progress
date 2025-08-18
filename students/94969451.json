@@ -1,0 +1,92 @@
+[
+  {
+    "exercise_name": "link-me",
+    "started_at": 1755514527.713163,
+    "completed_at": 1755514528.092131,
+    "comments": [
+      "Great work linking remote called 'upstream'."
+    ],
+    "status": "Complete"
+  },
+  {
+    "exercise_name": "link-me",
+    "started_at": 1755514699.713259,
+    "completed_at": 1755514699.749877,
+    "comments": [
+      "Missing remote called 'upstream'."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "link-me",
+    "started_at": 1755514820.490207,
+    "completed_at": 1755514820.526962,
+    "comments": [
+      "Missing remote called 'upstream'."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "link-me",
+    "started_at": 1755515005.970435,
+    "completed_at": 1755515006.284806,
+    "comments": [
+      "Missing remote called 'upstream'."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "remote-control",
+    "started_at": 1755513533.79059,
+    "completed_at": 1755513543.457449,
+    "comments": [
+      "That is not the right Github url!"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "remote-control",
+    "started_at": 1755513567.686506,
+    "completed_at": 1755513595.359139,
+    "comments": [
+      "The remote repository url you provided either does not exist or is private. Try again!"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "remote-control",
+    "started_at": 1755513705.048983,
+    "completed_at": 1755513721.670185,
+    "comments": [
+      "Great work setting up a public remote repository!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "link-me",
+    "started_at": 1755515355.449692,
+    "completed_at": 1755515355.737338,
+    "comments": [
+      "Missing remote called 'upstream'."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "link-me",
+    "started_at": 1755515566.896614,
+    "completed_at": 1755515566.931965,
+    "comments": [
+      "Missing remote called 'upstream'."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "link-me",
+    "started_at": 1755515732.098421,
+    "completed_at": 1755515732.532513,
+    "comments": [
+      "Missing remote called 'upstream'."
+    ],
+    "status": "Incomplete"
+  }
+]
