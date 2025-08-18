@@ -52,5 +52,14 @@
       "too many values to unpack (expected 2)"
     ],
     "status": "Error"
+  },
+  {
+    "exercise_name": "push-over",
+    "started_at": 1755500078.509873,
+    "completed_at": 1755500079.276498,
+    "comments": [
+      "Great work pushing changes to the remote!"
+    ],
+    "status": "Completed"
   }
 ]
