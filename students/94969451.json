@@ -6,7 +6,7 @@
     "comments": [
       "Great work linking remote called 'upstream'."
     ],
-    "status": "Complete"
+    "status": "Completed"
   },
   {
     "exercise_name": "link-me",
@@ -113,6 +113,87 @@
     "completed_at": 1755517010.551066,
     "comments": [
       "Great work using .gitignore!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "fork-repo",
+    "started_at": 1755517820.141472,
+    "completed_at": 1755517822.299701,
+    "comments": [
+      "Great work creating a fork with Github!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "clone-repo",
+    "started_at": 1755518109.108353,
+    "completed_at": 1755518111.269477,
+    "comments": [
+      "Clone named shapes is missing! Remember to clone your fork using the name 'shapes', not 'gm-shapes'!"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "clone-repo",
+    "started_at": 1755518229.635588,
+    "completed_at": 1755518231.387946,
+    "comments": [
+      "C:\\Users\\Kevin\\Desktop\\gitmastery-exercises\\clone-repo\\shapes"
+    ],
+    "status": "Error"
+  },
+  {
+    "exercise_name": "clone-repo",
+    "started_at": 1755518460.978231,
+    "completed_at": 1755518463.0192,
+    "comments": [
+      "C:\\Users\\Kevin\\Desktop\\gitmastery-exercises\\clone-repo\\shapes"
+    ],
+    "status": "Error"
+  },
+  {
+    "exercise_name": "clone-repo",
+    "started_at": 1755518667.709714,
+    "completed_at": 1755518669.474098,
+    "comments": [
+      "The origin remote does not point to your fork!"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "clone-repo",
+    "started_at": 1755518703.851115,
+    "completed_at": 1755518706.137648,
+    "comments": [
+      "The origin remote does not point to your fork!"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "clone-repo",
+    "started_at": 1755518958.213999,
+    "completed_at": 1755518959.922811,
+    "comments": [
+      "The origin remote does not point to your fork!"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "fetch-and-pull",
+    "started_at": 1755519576.407004,
+    "completed_at": 1755519576.908941,
+    "comments": [
+      "You did not pull Alice's changes to your own main branch!"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "fetch-and-pull",
+    "started_at": 1755519738.821907,
+    "completed_at": 1755519739.315946,
+    "comments": [
+      "Great work fetching and pulling different upstreams!"
     ],
     "status": "Completed"
   }
