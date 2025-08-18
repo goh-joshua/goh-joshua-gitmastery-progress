@@ -151,5 +151,41 @@
       "too many values to unpack (expected 2)"
     ],
     "status": "Error"
+  },
+  {
+    "exercise_name": "link-me",
+    "started_at": 1755518434.267909,
+    "completed_at": 1755518434.613467,
+    "comments": [
+      "Missing remote called 'upstream'."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "link-me",
+    "started_at": 1755518479.621915,
+    "completed_at": 1755518479.656556,
+    "comments": [
+      "Great work with using git remote to add an upstream remote!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "link-me",
+    "started_at": 1755518990.24452,
+    "completed_at": 1755518990.623871,
+    "comments": [
+      "too many values to unpack (expected 2)"
+    ],
+    "status": "Error"
+  },
+  {
+    "exercise_name": "link-me",
+    "started_at": 1755519188.143583,
+    "completed_at": 1755519188.177666,
+    "comments": [
+      "too many values to unpack (expected 2)"
+    ],
+    "status": "Error"
   }
 ]
