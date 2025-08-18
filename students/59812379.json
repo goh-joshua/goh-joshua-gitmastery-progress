@@ -1,0 +1,119 @@
+[
+  {
+    "exercise_name": "grocery-shopping",
+    "started_at": 1755488294.350816,
+    "completed_at": 1755488295.067754,
+    "comments": [
+      "Great work! You have successfully used `git add` and `git commit` to modify the shopping list! Keep it up!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "stage-fright",
+    "started_at": 1755487895.693499,
+    "completed_at": 1755487896.16153,
+    "comments": [
+      "Great work! You have successfully checked in all the actors!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "staging-intervention",
+    "started_at": 1755488108.114527,
+    "completed_at": 1755488108.555808,
+    "comments": [
+      "Great work! You have successfully fixed the attendance system!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "under-control",
+    "started_at": 1755487420.028922,
+    "completed_at": 1755487420.440335,
+    "comments": [
+      "You successfully used git init to initialize this folder as a Git repository!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "remote-control",
+    "started_at": 1755504880.832778,
+    "completed_at": 1755504947.124267,
+    "comments": [
+      "Great work setting up a public remote repository!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "link-me",
+    "started_at": 1755505676.644836,
+    "completed_at": 1755505676.683929,
+    "comments": [
+      "Wrong 'upstream' remote URL"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "link-me",
+    "started_at": 1755505772.685753,
+    "completed_at": 1755505772.724501,
+    "comments": [
+      "Wrong 'upstream' remote URL"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "link-me",
+    "started_at": 1755505798.074339,
+    "completed_at": 1755505798.113955,
+    "comments": [
+      "too many values to unpack (expected 2)"
+    ],
+    "status": "Error"
+  },
+  {
+    "exercise_name": "link-me",
+    "started_at": 1755505825.864921,
+    "completed_at": 1755505825.907841,
+    "comments": [
+      "too many values to unpack (expected 2)"
+    ],
+    "status": "Error"
+  },
+  {
+    "exercise_name": "link-me",
+    "started_at": 1755505865.885835,
+    "completed_at": 1755505865.926247,
+    "comments": [
+      "too many values to unpack (expected 2)"
+    ],
+    "status": "Error"
+  },
+  {
+    "exercise_name": "link-me",
+    "started_at": 1755505888.852018,
+    "completed_at": 1755505888.894821,
+    "comments": [
+      "Wrong 'upstream' remote URL"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "link-me",
+    "started_at": 1755505926.672658,
+    "completed_at": 1755505926.961735,
+    "comments": [
+      "Wrong 'upstream' remote URL"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "link-me",
+    "started_at": 1755505983.407807,
+    "completed_at": 1755505983.452105,
+    "comments": [
+      "too many values to unpack (expected 2)"
+    ],
+    "status": "Error"
+  }
+]
