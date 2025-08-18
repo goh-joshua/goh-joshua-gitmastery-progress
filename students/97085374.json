@@ -70,5 +70,24 @@
       "Great work pushing changes to the remote!"
     ],
     "status": "Completed"
+  },
+  {
+    "exercise_name": "ignoring-somethings",
+    "started_at": 1755496450.513767,
+    "completed_at": 1755496454.553532,
+    "comments": [
+      "You should not be ignoring this/is/very/nested/find_me.txt!",
+      "You should be using ** to match all subfolders to ignore runaway.txt."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "ignoring-somethings",
+    "started_at": 1755496628.731604,
+    "completed_at": 1755496632.769924,
+    "comments": [
+      "Great work using .gitignore!"
+    ],
+    "status": "Completed"
   }
 ]
