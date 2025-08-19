@@ -1,0 +1,38 @@
+[
+  {
+    "exercise_name": "stage-fright",
+    "started_at": 1755177979.652745,
+    "completed_at": 1755177980.055078,
+    "comments": [
+      "Great work! You have successfully checked in all the actors!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "ignoring-somethings",
+    "started_at": 1755575437.66446,
+    "completed_at": 1755575438.123371,
+    "comments": [
+      "You have not made any commits yet!"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "ignoring-somethings",
+    "started_at": 1755575519.378901,
+    "completed_at": 1755575519.478306,
+    "comments": [
+      "You have not made any commits yet!"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "ignoring-somethings",
+    "started_at": 1755575633.174086,
+    "completed_at": 1755575633.706378,
+    "comments": [
+      "Great work using .gitignore!"
+    ],
+    "status": "Completed"
+  }
+]
