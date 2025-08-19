@@ -88,5 +88,50 @@
       "Great work pushing changes to the remote!"
     ],
     "status": "Completed"
+  },
+  {
+    "exercise_name": "ignoring-somethings",
+    "started_at": 1755623074.737518,
+    "completed_at": 1755623078.704121,
+    "comments": [
+      "You should be using ** to match all subfolders to ignore runaway.txt."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "ignoring-somethings",
+    "started_at": 1755623433.191835,
+    "completed_at": 1755623437.047143,
+    "comments": [
+      "You should be using ** to match all subfolders to ignore runaway.txt."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "ignoring-somethings",
+    "started_at": 1755623590.738059,
+    "completed_at": 1755623594.966566,
+    "comments": [
+      "You should be using ** to match all subfolders to ignore runaway.txt."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "ignoring-somethings",
+    "started_at": 1755623792.778137,
+    "completed_at": 1755623796.897687,
+    "comments": [
+      "You should be using ** to match all subfolders to ignore runaway.txt."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "ignoring-somethings",
+    "started_at": 1755623845.149527,
+    "completed_at": 1755623849.062134,
+    "comments": [
+      "Great work using .gitignore!"
+    ],
+    "status": "Completed"
   }
 ]
