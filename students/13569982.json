@@ -43,5 +43,23 @@
       "Great work pushing changes to the remote!"
     ],
     "status": "Completed"
+  },
+  {
+    "exercise_name": "ignoring-somethings",
+    "started_at": 1755581539.123367,
+    "completed_at": 1755581548.437523,
+    "comments": [
+      "Great work using .gitignore!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "fork-repo",
+    "started_at": 1755582057.282218,
+    "completed_at": 1755582059.705562,
+    "comments": [
+      "Great work creating a fork with Github!"
+    ],
+    "status": "Completed"
   }
 ]
