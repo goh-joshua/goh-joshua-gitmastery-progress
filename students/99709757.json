@@ -1,0 +1,47 @@
+[
+  {
+    "exercise_name": "remote-control",
+    "started_at": 1755587602.057086,
+    "completed_at": 1755587658.144485,
+    "comments": [
+      "That is not the right Github url!"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "remote-control",
+    "started_at": 1755587685.924471,
+    "completed_at": 1755587690.543745,
+    "comments": [
+      "That is not the right Github url!"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "remote-control",
+    "started_at": 1755587728.831966,
+    "completed_at": 1755587731.56921,
+    "comments": [
+      "That is not the right Github url!"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "remote-control",
+    "started_at": 1755587809.831225,
+    "completed_at": 1755587874.054485,
+    "comments": [
+      "Great work setting up a public remote repository!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "link-me",
+    "started_at": 1755588053.688158,
+    "completed_at": 1755588054.530097,
+    "comments": [
+      "Great work with using git remote to add an upstream remote!"
+    ],
+    "status": "Completed"
+  }
+]
