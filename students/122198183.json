@@ -43,5 +43,14 @@
       "You successfully used git init to initialize this folder as a Git repository!"
     ],
     "status": "Completed"
+  },
+  {
+    "exercise_name": "remote-control",
+    "started_at": 1755644501.007694,
+    "completed_at": 1755644578.931283,
+    "comments": [
+      "Great work setting up a public remote repository!"
+    ],
+    "status": "Completed"
   }
 ]
