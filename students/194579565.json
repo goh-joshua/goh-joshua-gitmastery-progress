@@ -115,5 +115,41 @@
       "Great work pushing changes to the remote!"
     ],
     "status": "Completed"
+  },
+  {
+    "exercise_name": "ignoring-somethings",
+    "started_at": 1755604142.346364,
+    "completed_at": 1755604148.680669,
+    "comments": [
+      "Great work using .gitignore!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "fork-repo",
+    "started_at": 1755605340.141823,
+    "completed_at": 1755605342.724198,
+    "comments": [
+      "Great work creating a fork with Github!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "clone-repo",
+    "started_at": 1755605859.260999,
+    "completed_at": 1755605861.651693,
+    "comments": [
+      "Great work creating a clone of a fork from Github!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "fetch-and-pull",
+    "started_at": 1755607175.106307,
+    "completed_at": 1755607176.261136,
+    "comments": [
+      "Great work fetching and pulling different upstreams!"
+    ],
+    "status": "Completed"
   }
 ]
