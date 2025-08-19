@@ -1,0 +1,38 @@
+[
+  {
+    "exercise_name": "remote-control",
+    "started_at": 1755607486.656546,
+    "completed_at": 1755607486.658064,
+    "comments": [
+      "'downloaded_at'"
+    ],
+    "status": "Error"
+  },
+  {
+    "exercise_name": "remote-control",
+    "started_at": 1755607545.913348,
+    "completed_at": 1755607545.914832,
+    "comments": [
+      "'downloaded_at'"
+    ],
+    "status": "Error"
+  },
+  {
+    "exercise_name": "under-control",
+    "started_at": 1755247842.196503,
+    "completed_at": 1755247842.516263,
+    "comments": [
+      "You successfully used git init to initialize this folder as a Git repository!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "under-control",
+    "started_at": 1755610260.490284,
+    "completed_at": 1755610260.798147,
+    "comments": [
+      "You successfully used git init to initialize this folder as a Git repository!"
+    ],
+    "status": "Completed"
+  }
+]
