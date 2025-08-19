@@ -80,5 +80,59 @@
       "You are not ignoring runaway.txt. Find where the file is and fix that."
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "ignoring-somethings",
+    "started_at": 1755595541.207895,
+    "completed_at": 1755595544.205346,
+    "comments": [
+      "You are still ignoring many/file22.txt."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "ignoring-somethings",
+    "started_at": 1755595725.442214,
+    "completed_at": 1755595728.99714,
+    "comments": [
+      "You are still ignoring many/file22.txt."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "ignoring-somethings",
+    "started_at": 1755595759.44628,
+    "completed_at": 1755595762.101745,
+    "comments": [
+      "You are still ignoring many/file22.txt."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "ignoring-somethings",
+    "started_at": 1755595876.551228,
+    "completed_at": 1755595879.396423,
+    "comments": [
+      "You should be ignoring the rest of many/* except many/file22.txt!"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "ignoring-somethings",
+    "started_at": 1755596190.791223,
+    "completed_at": 1755596193.816186,
+    "comments": [
+      "You are still ignoring many/file22.txt."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "ignoring-somethings",
+    "started_at": 1755596284.142416,
+    "completed_at": 1755596286.989634,
+    "comments": [
+      "Great work using .gitignore!"
+    ],
+    "status": "Completed"
   }
 ]
