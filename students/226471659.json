@@ -34,5 +34,77 @@
       "You successfully used git init to initialize this folder as a Git repository!"
     ],
     "status": "Completed"
+  },
+  {
+    "exercise_name": "remote-control",
+    "started_at": 1755497764.438807,
+    "completed_at": 1755497946.813505,
+    "comments": [
+      "Great work setting up a public remote repository!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "link-me",
+    "started_at": 1755498092.60206,
+    "completed_at": 1755498092.891253,
+    "comments": [
+      "Missing remote called 'upstream'."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "link-me",
+    "started_at": 1755498137.80402,
+    "completed_at": 1755498137.845635,
+    "comments": [
+      "Great work with using git remote to add an upstream remote!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "push-over",
+    "started_at": 1755585884.863257,
+    "completed_at": 1755585886.335876,
+    "comments": [
+      "Great work pushing changes to the remote!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "ignoring-somethings",
+    "started_at": 1755586862.065011,
+    "completed_at": 1755586868.448454,
+    "comments": [
+      "Great work using .gitignore!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "fork-repo",
+    "started_at": 1755587556.136173,
+    "completed_at": 1755587558.018273,
+    "comments": [
+      "No fork of git-mastery/gm-shapes found. Remember to fork it from https://github.com/git-mastery/gm-shapes and keep the name as gm-shapes"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "fork-repo",
+    "started_at": 1755587751.737173,
+    "completed_at": 1755587753.548049,
+    "comments": [
+      "No fork of git-mastery/gm-shapes found. Remember to fork it from https://github.com/git-mastery/gm-shapes and keep the name as gm-shapes"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "clone-repo",
+    "started_at": 1755588042.124793,
+    "completed_at": 1755588043.790655,
+    "comments": [
+      "No fork of git-mastery/gm-shapes found. Remember to fork it from https://github.com/git-mastery/gm-shapes and keep the name as gm-shapes"
+    ],
+    "status": "Incomplete"
   }
 ]
