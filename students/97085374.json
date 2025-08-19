@@ -9,6 +9,52 @@
     "status": "Completed"
   },
   {
+    "exercise_name": "ignoring-somethings",
+    "started_at": 1755496450.513767,
+    "completed_at": 1755496454.553532,
+    "comments": [
+      "You should not be ignoring this/is/very/nested/find_me.txt!",
+      "You should be using ** to match all subfolders to ignore runaway.txt."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "ignoring-somethings",
+    "started_at": 1755496628.731604,
+    "completed_at": 1755496632.769924,
+    "comments": [
+      "Great work using .gitignore!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "push-over",
+    "started_at": 1755496033.807611,
+    "completed_at": 1755496035.030804,
+    "comments": [
+      "Great work pushing changes to the remote!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "remote-control",
+    "started_at": 1755494061.053389,
+    "completed_at": 1755494071.775556,
+    "comments": [
+      "That is not the right Github url!"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "remote-control",
+    "started_at": 1755494152.743419,
+    "completed_at": 1755494156.398429,
+    "comments": [
+      "Great work setting up a public remote repository!"
+    ],
+    "status": "Completed"
+  },
+  {
     "exercise_name": "stage-fright",
     "started_at": 1754808618.521944,
     "completed_at": 1754808619.008282,
@@ -45,49 +91,39 @@
     "status": "Completed"
   },
   {
-    "exercise_name": "remote-control",
-    "started_at": 1755494061.053389,
-    "completed_at": 1755494071.775556,
+    "exercise_name": "fork-repo",
+    "started_at": 1755580161.557069,
+    "completed_at": 1755580163.243719,
     "comments": [
-      "That is not the right Github url!"
-    ],
-    "status": "Incomplete"
-  },
-  {
-    "exercise_name": "remote-control",
-    "started_at": 1755494152.743419,
-    "completed_at": 1755494156.398429,
-    "comments": [
-      "Great work setting up a public remote repository!"
+      "Great work creating a fork with Github!"
     ],
     "status": "Completed"
   },
   {
-    "exercise_name": "push-over",
-    "started_at": 1755496033.807611,
-    "completed_at": 1755496035.030804,
+    "exercise_name": "under-control",
+    "started_at": 1755580195.91637,
+    "completed_at": 1755580196.20526,
     "comments": [
-      "Great work pushing changes to the remote!"
+      "You successfully used git init to initialize this folder as a Git repository!"
     ],
     "status": "Completed"
   },
   {
     "exercise_name": "ignoring-somethings",
-    "started_at": 1755496450.513767,
-    "completed_at": 1755496454.553532,
-    "comments": [
-      "You should not be ignoring this/is/very/nested/find_me.txt!",
-      "You should be using ** to match all subfolders to ignore runaway.txt."
-    ],
-    "status": "Incomplete"
-  },
-  {
-    "exercise_name": "ignoring-somethings",
-    "started_at": 1755496628.731604,
-    "completed_at": 1755496632.769924,
+    "started_at": 1755580217.762118,
+    "completed_at": 1755580221.84685,
     "comments": [
       "Great work using .gitignore!"
     ],
     "status": "Completed"
+  },
+  {
+    "exercise_name": "clone-repo",
+    "started_at": 1755580803.206855,
+    "completed_at": 1755580805.021306,
+    "comments": [
+      "The remote 'upstream' is missing!"
+    ],
+    "status": "Incomplete"
   }
 ]
