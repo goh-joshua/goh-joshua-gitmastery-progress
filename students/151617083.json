@@ -119,8 +119,8 @@
   },
   {
     "exercise_name": "ignoring-somethings",
-    "started_at": 1755659416.904972,
-    "completed_at": 1755659417.506662,
+    "started_at": 1755683951.341177,
+    "completed_at": 1755683952.041483,
     "comments": [
       "You have not made any commits yet!"
     ],
@@ -128,22 +128,20 @@
   },
   {
     "exercise_name": "ignoring-somethings",
-    "started_at": 1755659489.752008,
-    "completed_at": 1755659492.010794,
+    "started_at": 1755683998.745362,
+    "completed_at": 1755684001.896624,
     "comments": [
-      "You are still ignoring many/file22.txt.",
-      "You are still ignoring why_am_i_hidden.txt. Find where the file is and fix that."
+      "You are still ignoring many/file22.txt."
     ],
     "status": "Incomplete"
   },
   {
     "exercise_name": "ignoring-somethings",
-    "started_at": 1755659598.806469,
-    "completed_at": 1755659601.017678,
+    "started_at": 1755684175.104328,
+    "completed_at": 1755684178.199818,
     "comments": [
-      "You are still ignoring many/file22.txt.",
-      "You are still ignoring why_am_i_hidden.txt. Find where the file is and fix that."
+      "Great work using .gitignore!"
     ],
-    "status": "Incomplete"
+    "status": "Completed"
   }
 ]
