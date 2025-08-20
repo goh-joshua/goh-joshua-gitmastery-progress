@@ -43,5 +43,14 @@
       "Missing remote called 'upstream'."
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "link-me",
+    "started_at": 1755692946.646146,
+    "completed_at": 1755692946.965757,
+    "comments": [
+      "Missing remote called 'upstream'."
+    ],
+    "status": "Incomplete"
   }
 ]
