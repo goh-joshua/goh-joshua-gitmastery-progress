@@ -63,21 +63,12 @@
     "status": "Incomplete"
   },
   {
-    "exercise_name": "link-me",
-    "started_at": 1755693898.598174,
-    "completed_at": 1755693898.88095,
+    "exercise_name": "fork-repo",
+    "started_at": 1755694661.992129,
+    "completed_at": 1755694663.749607,
     "comments": [
-      "Wrong 'upstream' remote URL"
+      "Great work creating a fork with Github!"
     ],
-    "status": "Incomplete"
-  },
-  {
-    "exercise_name": "link-me",
-    "started_at": 1755694062.65455,
-    "completed_at": 1755694062.694172,
-    "comments": [
-      "Wrong 'upstream' remote URL"
-    ],
-    "status": "Incomplete"
+    "status": "Completed"
   }
 ]
