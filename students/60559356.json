@@ -1,0 +1,29 @@
+[
+  {
+    "exercise_name": "link-me",
+    "started_at": 1755673380.812675,
+    "completed_at": 1755673381.351217,
+    "comments": [
+      "Missing remote called 'upstream'."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "link-me",
+    "started_at": 1755674013.788709,
+    "completed_at": 1755674014.248971,
+    "comments": [
+      "Missing remote called 'upstream'."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "link-me",
+    "started_at": 1755674322.909487,
+    "completed_at": 1755674323.374162,
+    "comments": [
+      "Wrong 'upstream' remote URL"
+    ],
+    "status": "Incomplete"
+  }
+]
