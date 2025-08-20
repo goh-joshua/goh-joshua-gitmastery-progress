@@ -1,0 +1,49 @@
+[
+  {
+    "exercise_name": "grocery-shopping",
+    "started_at": 1755625175.360199,
+    "completed_at": 1755625176.159971,
+    "comments": [
+      "Great work! You have successfully used `git add` and `git commit` to modify the shopping list! Keep it up!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "stage-fright",
+    "started_at": 1755616431.370198,
+    "completed_at": 1755616431.965295,
+    "comments": [
+      "Did not add alice.txt",
+      "Did not add joe.txt",
+      "Did not add bob.txt"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "stage-fright",
+    "started_at": 1755616484.167706,
+    "completed_at": 1755616484.740568,
+    "comments": [
+      "Great work! You have successfully checked in all the actors!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "under-control",
+    "started_at": 1755596432.5805,
+    "completed_at": 1755596432.584499,
+    "comments": [
+      "Exercise is not a Git repository"
+    ],
+    "status": "Error"
+  },
+  {
+    "exercise_name": "under-control",
+    "started_at": 1755596906.967372,
+    "completed_at": 1755596906.971424,
+    "comments": [
+      "Exercise is not a Git repository"
+    ],
+    "status": "Error"
+  }
+]
