@@ -116,5 +116,23 @@
       "Great work fetching and pulling different upstreams!"
     ],
     "status": "Completed"
+  },
+  {
+    "exercise_name": "side-track",
+    "started_at": 1755698089.443527,
+    "completed_at": 1755698089.922228,
+    "comments": [
+      "Great work with using git branch and git checkout to fix the bugs!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "branch-bender",
+    "started_at": 1755699830.431534,
+    "completed_at": 1755699830.939782,
+    "comments": [
+      "Great work with merging the branches in order! Try running the HTML files locally!"
+    ],
+    "status": "Completed"
   }
 ]
