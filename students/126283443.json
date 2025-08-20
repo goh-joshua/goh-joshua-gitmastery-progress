@@ -100,5 +100,41 @@
       "Great work using .gitignore!"
     ],
     "status": "Completed"
+  },
+  {
+    "exercise_name": "fork-repo",
+    "started_at": 1755689031.583722,
+    "completed_at": 1755689034.412534,
+    "comments": [
+      "Great work creating a fork with Github!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "clone-repo",
+    "started_at": 1755689512.250854,
+    "completed_at": 1755689515.154483,
+    "comments": [
+      "C:\\Users\\User\\Desktop\\gitmastery-home\\gitmastery-exercises\\clone-repo\\shapes"
+    ],
+    "status": "Error"
+  },
+  {
+    "exercise_name": "clone-repo",
+    "started_at": 1755689660.256638,
+    "completed_at": 1755689662.840474,
+    "comments": [
+      "C:\\Users\\User\\Desktop\\gitmastery-home\\gitmastery-exercises\\clone-repo\\shapes"
+    ],
+    "status": "Error"
+  },
+  {
+    "exercise_name": "clone-repo",
+    "started_at": 1755689723.445886,
+    "completed_at": 1755689726.187206,
+    "comments": [
+      "C:\\Users\\User\\Desktop\\gitmastery-home\\gitmastery-exercises\\clone-repo\\shapes"
+    ],
+    "status": "Error"
   }
 ]
